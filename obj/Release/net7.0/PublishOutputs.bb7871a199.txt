@@ -1,0 +1,13 @@
+D:\Learning\AZ-204\DemoWebApp\WebAppWithSQLDB\obj\Release\net7.0\PubTmp\Out\WebAppWithSQLDB.exe
+D:\Learning\AZ-204\DemoWebApp\WebAppWithSQLDB\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\Learning\AZ-204\DemoWebApp\WebAppWithSQLDB\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\Learning\AZ-204\DemoWebApp\WebAppWithSQLDB\obj\Release\net7.0\PubTmp\Out\WebAppWithSQLDB.dll
+D:\Learning\AZ-204\DemoWebApp\WebAppWithSQLDB\obj\Release\net7.0\PubTmp\Out\WebAppWithSQLDB.deps.json
+D:\Learning\AZ-204\DemoWebApp\WebAppWithSQLDB\obj\Release\net7.0\PubTmp\Out\WebAppWithSQLDB.runtimeconfig.json
+D:\Learning\AZ-204\DemoWebApp\WebAppWithSQLDB\obj\Release\net7.0\PubTmp\Out\WebAppWithSQLDB.pdb
+D:\Learning\AZ-204\DemoWebApp\WebAppWithSQLDB\obj\Release\net7.0\PubTmp\Out\System.Data.SqlClient.dll
+D:\Learning\AZ-204\DemoWebApp\WebAppWithSQLDB\obj\Release\net7.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+D:\Learning\AZ-204\DemoWebApp\WebAppWithSQLDB\obj\Release\net7.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+D:\Learning\AZ-204\DemoWebApp\WebAppWithSQLDB\obj\Release\net7.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+D:\Learning\AZ-204\DemoWebApp\WebAppWithSQLDB\obj\Release\net7.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Learning\AZ-204\DemoWebApp\WebAppWithSQLDB\obj\Release\net7.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
